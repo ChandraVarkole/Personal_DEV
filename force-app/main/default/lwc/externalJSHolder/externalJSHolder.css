@@ -1,0 +1,10 @@
+.date{
+    font-size: 4rem;
+    font-weight: 400;
+}
+.trend{
+    font-size: 4rem;
+    font-weight: 400;
+    background-color: blueviolet;
+    padding-block: 16px;
+}

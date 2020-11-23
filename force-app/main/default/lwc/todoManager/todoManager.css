@@ -1,0 +1,13 @@
+.time{
+    font-size: 4rem;
+    font-weight: 400;
+}
+.greeting{
+    font-size: 2rem;
+    font-weight: 200;
+}
+.container{
+    background-color: aquamarine;
+    padding: 16px;
+    overflow-y: scroll;
+}
