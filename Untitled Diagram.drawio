@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T18:55:04.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="8xDbusK5rS6hAZJwvsHt" version="14.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-15T19:03:15.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="xakE3XK7q9OdReJaCdAA" version="14.2.3" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="832" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -317,7 +317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ICrMN9pPmfEcwAW1j2xA" name="Page-2">
-    <mxGraphModel dx="1387" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-0" />
         <mxCell id="aKos_OEdHaS5hfhMAC9m-1" parent="aKos_OEdHaS5hfhMAC9m-0" />
@@ -325,18 +325,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-2" value="&lt;h2&gt;Salesforce Community&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
-          <mxGeometry x="365" y="30" width="120" height="120" as="geometry" />
+          <mxGeometry x="365" y="30" width="115" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-7" value="Open Solvvy Chat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
           <mxGeometry x="170" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aKos_OEdHaS5hfhMAC9m-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="aKos_OEdHaS5hfhMAC9m-1" source="aKos_OEdHaS5hfhMAC9m-11">
+        <mxCell id="aKos_OEdHaS5hfhMAC9m-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="aKos_OEdHaS5hfhMAC9m-1" source="aKos_OEdHaS5hfhMAC9m-11" target="aKos_OEdHaS5hfhMAC9m-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="398" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-12" value="If question not answered" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
-          <mxGeometry x="345" y="350" width="105" height="90" as="geometry" />
+          <mxGeometry x="345" y="320" width="115" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="aKos_OEdHaS5hfhMAC9m-1" source="aKos_OEdHaS5hfhMAC9m-15">
           <mxGeometry relative="1" as="geometry">
@@ -347,19 +347,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-18" value="Chat Transfer to Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
-          <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="570" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="aKos_OEdHaS5hfhMAC9m-1" source="aKos_OEdHaS5hfhMAC9m-24" target="aKos_OEdHaS5hfhMAC9m-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-24" value="Chat Initialization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
-          <mxGeometry x="560" y="700" width="160" height="50" as="geometry" />
+          <mxGeometry x="560" y="700" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aKos_OEdHaS5hfhMAC9m-29" value="Save Chat Transcript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
-          <mxGeometry x="580" y="800" width="120" height="70" as="geometry" />
+        <mxCell id="aKos_OEdHaS5hfhMAC9m-29" value="Save&amp;nbsp;Chat Transcript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
+          <mxGeometry x="560" y="830" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-11" value="Articles from Solvvy Database" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
-          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="aKos_OEdHaS5hfhMAC9m-1" source="aKos_OEdHaS5hfhMAC9m-7" target="aKos_OEdHaS5hfhMAC9m-11">
           <mxGeometry relative="1" as="geometry">
@@ -368,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-15" value="Connects to Chat Bot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="aKos_OEdHaS5hfhMAC9m-1">
-          <mxGeometry x="337.5" y="490" width="120" height="70" as="geometry" />
+          <mxGeometry x="330" y="490" width="127.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aKos_OEdHaS5hfhMAC9m-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="aKos_OEdHaS5hfhMAC9m-1" source="aKos_OEdHaS5hfhMAC9m-12" target="aKos_OEdHaS5hfhMAC9m-15">
           <mxGeometry relative="1" as="geometry">
